@@ -6,7 +6,11 @@ h1{
     color: blue;
 }
 
-.head3{
+.h_3{
     color: blueviolet;
-
+    text-align: justify;
+}
+.p_1{
+    color: aquamarine;
+    font-size: xx-large;
 }
